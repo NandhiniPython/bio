@@ -1,3 +1,3 @@
-# html
+# My Bio Page
 
-### my basic html pages
+### my profile, resume, experience, education, and works
